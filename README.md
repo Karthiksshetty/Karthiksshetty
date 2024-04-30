@@ -1,6 +1,6 @@
-# Yo! 👋 Kudos for dropping by! 🚀
+# Welcome! 👋 Glad you dropped in! 🚀
 
-Welcome to my GitHub profile! I'm Karthik shetty, a passionate MCA student and aspiring software developer. Here you'll find a collection of my projects, contributions, and a glimpse into my coding journey.
+Hello there! I'm Karthik Shetty, an MCA student fueled by a passion for software development. Here on my GitHub profile, you'll find a treasure trove of projects, contributions, and a glimpse into my coding journey.
 
 ## 🌱 Currently Learning
  
@@ -25,7 +25,7 @@ I'm currently diving deep into:
 
 <p align="center"> <img  src="https://github-readme-streak-stats.herokuapp.com?user=Karthiksshetty&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Karthiksshetty&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
+<!--<img src="https://github-readme-stats.vercel.app/api?username=Karthiksshetty&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> -->
 </p>
 
 
